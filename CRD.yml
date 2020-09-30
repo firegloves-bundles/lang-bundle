@@ -1,0 +1,22 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: lang-bundle
+spec:
+  details:
+    name: Language Entando Bundle
+    author: entando
+    description: Entando Bundle with languages
+    dist-tags:
+      latest: v0.0.1
+    time:
+      created: '2020-09-29T16:17:00.000Z'
+      modified: '2020-09-01T08:56:00.000Z'
+      v0.0.1: '2020-09-29T16:17:00.000Z'
+    versions:
+      - v0.0.1
+  tags:
+    - integrity: ''
+      shasum: ''
+      tarball: 'https://github.com/firegloves-bundles/lang-bundle.git'
+      version: v0.0.1

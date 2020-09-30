@@ -1,0 +1,5 @@
+code: standard-demo-bundle
+description: Standard Demo Bundle
+components:
+  languages:
+    - languages/languages-descriptor.yaml
